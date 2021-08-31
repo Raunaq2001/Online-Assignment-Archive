@@ -1,0 +1,17 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 60px; /* Margin bottom by footer height */
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 35px; /* Set the fixed height of the footer here */
+  line-height: 35px; /* Vertically center the text there */
+  background-color: #D3D3D3;
+  font-size: 12px;
+  text-align:center;
+}

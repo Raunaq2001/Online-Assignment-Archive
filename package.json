@@ -1,0 +1,25 @@
+{
+  "name": "online-assignment-archive",
+  "version": "1.0.0",
+  "description": "Online portal to assignment upload and submmission",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Made",
+    "by",
+    "Raunaq",
+    "Singh",
+    "and",
+    "Hartej",
+    "Singh"
+  ],
+  "author": "Raunaq Singh, Hartej Singh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
